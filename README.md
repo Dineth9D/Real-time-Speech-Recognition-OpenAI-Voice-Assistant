@@ -1,5 +1,8 @@
 # Real-time Speech Recognition + OpenAI Voice Assistant
 
+![7426233460487  Converted -min](https://user-images.githubusercontent.com/49786334/218248352-0c121731-6f2a-4ce5-be0c-6c6f0f3bed56.jpg)
+
+
 - This project implements real-time speech recognition and voice assistant application that utilizes the latest technology to provide seamless communication with OpenAI.
 
 - Real-time speech recognition is a technology that allows a device to convert spoken language into text in real-time. With OpenAI we can communicate with a highly trained AI model which interacts in a conversational way. The dialogue format makes it possible for ChatGPT to answer follow-up questions, admit its mistakes, challenge incorrect premises, and reject inappropriate requests.
